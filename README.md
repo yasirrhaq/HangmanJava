@@ -1,2 +1,2 @@
 # HangmanJava
-Iseng bikin hangman java
+Hangman game using java
